@@ -428,10 +428,10 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Tharun Ponnam**
+**Om Teja Kothmirkar**
 
-* GitHub: [@tharun-ship-it](https://github.com/tharun-ship-it)
-* Email: tharunponnam007@gmail.com
+* 
+* Email: omiiee04@gmail.com
 
 ---
 
